@@ -16,6 +16,7 @@ Right now, I'm working on a Java Spring Boot REST API that will revolutionize th
 
     Java Spring
     Spring Boot
+    Spring Cloud
     Hibernate
     MySQL
     RESTful services
